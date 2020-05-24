@@ -1,6 +1,6 @@
-# UDA_city-Projects
+# UDA_city-Projects/Project1
 
-## Project 1
+## Explore-Weather-Treads (Global Vs Pune City)
 
 ### Overview
 
